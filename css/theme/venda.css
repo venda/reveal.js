@@ -150,8 +150,7 @@ body {
  *********************************************/
 
 .first-slide .state-background {
-  background-image: url('../../assets/venda_logo_trans.png') , url('../../assets/venda_img1.jpg');
-    background-position: 30px 20px, 0 0;
+  background-image: url('../../assets/venda_img1.jpg');
     background-repeat: no-repeat
 }
 
