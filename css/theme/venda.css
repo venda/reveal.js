@@ -16,7 +16,11 @@ body {
 
 }
 
-.main-header, .reveal .main-header h1, .reveal .main-header  h2, .reveal .main-header h3 {
+.reveal .main-header, .reveal .main-header h1, .reveal .main-header  h2, .reveal .main-header h3 {
    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.27);
-   width: 99%;
+}
+
+.reveal .main-header {
+  width: 74%;
+  margin-left: 13s%;
 }
